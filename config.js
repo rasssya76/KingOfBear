@@ -7,7 +7,7 @@
 // thank you to benni ismael
 // thank you to zerochanBot
 // thank you to fernazer
-// thank you to King Of Bear Official
+// thank you to BOT Official
 // thank you to MikeBot Dev Team
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
@@ -15,11 +15,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL', ''] // ganti jadi group lu
-global.owner = ['6288279268363'] // Put your number here //owner eval
-global.kontak = ['6288279268363','0'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/', ''] // ganti jadi group lu
+global.owner = ['6281515589573'] // Put your number here //owner eval
+global.kontak = ['6281515589573','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6288279268363'] // Premium user has unlimited limit
+global.prems = ['6281515589573'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -50,23 +50,23 @@ zekskey = 'apivinz'
 xteamkey = 'KingOfBear'
 bearkey = 'KingOfBear'
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/drak_ipul123'
+namaig = 'https://instagram.com/'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'King Of Bear'
-namakontak2 = 'King Of Bear'
+namakontak1 = 'BOT'
+namakontak2 = 'BOT'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By King Of Bear' // ganti aja
-global.author = 'King Of Bear' // ganti aja
+global.packname = 'By BOT' // ganti aja
+global.author = 'BOT' // ganti aja
 
 //yyy
-bc = 'King Of Bear' //King Of Bear Broadcast
-footer = '\n©King Of Bear'
-namabot = 'YUKI BOT'
-namalu = 'King Of Bear'
+bc = 'BOT' //BOT Broadcast
+footer = '\n©BOT'
+namabot = 'BOT'
+namalu = 'RAMA'
 
 
 // 
