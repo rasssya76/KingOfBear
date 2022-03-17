@@ -239,12 +239,6 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃⬡ *${conn.blocklist.length}* Terblock
 ┃⬡ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
 ┃⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
-┃
-┃⬡ Script by King Of Bear
-┃⬡ Github Name : https://youtu.be/d7dcw2CO4ew
-┃⬡ Yt : https://youtu.be/d7dcw2CO4ew
-┃⬡ Run bot : Heroku
-┃⬡ Tipe SC King Of Bear
 ┗━━━━━━━━⬣`.trim(),
           "buttonText": "Klik Disini",
           "listType": "SINGLE_SELECT",
