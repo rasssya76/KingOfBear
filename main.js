@@ -11,6 +11,7 @@ const Readline = require('readline')
 const cp = require('child_process')
 const _ = require('lodash')
 const path = require('path')
+const { keep_alive } = require("./keep_alive");
 const fs = require('fs')
 var low
 try {
