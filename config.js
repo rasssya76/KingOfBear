@@ -53,19 +53,19 @@ bearkey = 'KingOfBear'
 namaig = 'https://instagram.com/'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'BOT'
-namakontak2 = 'BOT'
+namakontak1 = 'SENKU-BOT'
+namakontak2 = 'SENKU-BOT'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By BOT' // ganti aja
-global.author = 'BOT' // ganti aja
+global.packname = 'By SENKU-BOT' // ganti aja
+global.author = 'Rama' // ganti aja
 
 //yyy
-bc = 'BOT' //BOT Broadcast
-footer = '\n©BOT'
-namabot = 'BOT'
+bc = 'SENKU-BOT' //BOT Broadcast
+footer = '\nSENKU-BOT'
+namabot = 'SENKU-BOT'
 namalu = 'RAMA'
 
 
